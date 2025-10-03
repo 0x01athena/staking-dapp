@@ -10,16 +10,13 @@ In the project directory, you can run:
 ```
 npm start
 # Runs the app in development mode at http://localhost:3000
-bash
-Copy code
+
 npm test
 # Launches the test runner
-bash
-Copy code
+
 npm run build
 # Builds the app for production
-bash
-Copy code
+
 npm run eject
 # Exposes configuration files (Webpack, Babel, etc.)
 ```
